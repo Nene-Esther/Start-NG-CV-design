@@ -9,7 +9,7 @@ const closeModal = () => {
     modal.classList.add('hide-modal');
     email.value = '';
     name.value = '';
-    message.value = '';
+    message.value =  '';
     };
     
 //grab elements and asssign functions on action trigger
